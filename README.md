@@ -5,6 +5,7 @@ Welcome to the Quizzler Project! This Python-powered trivia game tests your know
 
 ## Game Mechanics ⚙️
 Your mission is simple: answer as many trivia questions as you can. With the power of Python and a sleek Tkinter GUI, our game presents you with questions and keeps track of your score. Can you beat your high score? Let the quiz commence!
+
 ![Quiz App Interface](images/screenshots/question.png)![End Quiz App Interface ](images/screenshots/end.png)
 ![Correct Answer](images/screenshots/right.png)![rong Answer](images/screenshots/wrong.png)
 
